@@ -1,0 +1,5 @@
+max_computational_resource=63
+do_use_max_threads_for_prediction=false
+valid_app_client_id_list[1]=1000000--1000001
+valid_app_client_id_list[2]=1000000--1000001
+max_num_executing_jobs=99999

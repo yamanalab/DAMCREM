@@ -1,0 +1,8 @@
+# max_computational_resource=64
+max_computational_resource=3
+def_lowerbound_of_priority=0.7
+do_use_max_threads_for_prediction=false
+valid_app_client_id_list[1]=0--1
+query_arrival_time_file_info[1]=misc/received_time_M4096_mu10000_0.txt,16
+max_num_executing_jobs=99999
+
