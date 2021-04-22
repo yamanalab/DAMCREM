@@ -39,3 +39,7 @@ $ ./build/bin/static_analysis --option-file=options/1app/1-static_analysis.txt -
 # Reference
 T. Suzuki, Y. Ishimaki and H. Yamana, "DAMCREM: Dynamic Allocation Method of Computation REsource to Macro-Tasks for Fully Homomorphic Encryption Applications," 2020 IEEE International Conference on Smart Computing (SMARTCOMP), pp. 458-463, 2020, doi: 10.1109/SMARTCOMP50058.2020.00094.
 
+# License
+Copyright 2021 Yamana Laboratory, Waseda University Supported by JST CREST Grant Number JPMJCR1503, Japan.
+
+See also [License](/LICENSE)
